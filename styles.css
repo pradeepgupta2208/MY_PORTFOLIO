@@ -1,0 +1,47 @@
+body{
+    text-align: justify;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+/* About me image radius  */
+
+
+/* About me unorder-list setup  */
+
+.p{
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+    text-align: start;
+    
+}
+/*  INDEX.HTML me image */
+.navvar{
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+    text-align: center;
+    padding: 120px;
+    width: 100%;
+}
+
+.centered-list{
+    text-align: center;
+}
+img{
+    position: relative;
+    padding-top: 20px;
+    margin-left: 0px;
+    border-radius: 50%;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.unorder{
+    text-align: start;
+}
+
+
